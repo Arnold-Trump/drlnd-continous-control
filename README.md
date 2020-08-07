@@ -1,4 +1,4 @@
-# Project: Continous Control
+# Project: Continuous Control
 ### The Environment
 ===============
 
