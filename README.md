@@ -1,7 +1,6 @@
 # Project: Continuous Control
 ### The Environment
 ===============
-
 For this project, you will work with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.
 
 ![Unity ML-Agents Reacher Environment](https://video.udacity-data.com/topher/2018/June/5b1ea778_reacher/reacher.gif)
@@ -51,7 +50,6 @@ Plot of average scores (over all agents) with each episode.
 The environment is considered solved, when the average (over 100 episodes) of those average scores is at least +30. In the case of the plot above, the environment was solved at episode 63, since the average of the average scores from episodes 64 to 163 (inclusive) was greater than +30.
 
 ### Getting Started
-
 Follow the instructions below to explore the environment on your own machine! You will also learn how to use the Python API to control your agent.
 
 Step 1: Activate the Environment
@@ -99,7 +97,5 @@ Step 3: Explore the Environment
 * * * * *
 
 After you have followed the instructions above, open `Continuous_Control.ipynb` (located in the `p2_continuous-control/` folder in the DRLND GitHub repository) and follow the instructions to learn how to use the Python API to control the agent.
-
-Watch the (*silent*) video below to see what kind of output to expect from the notebook (for version 2 of the environment), if everything is working properly! Version 1 will look very similar (where you'll see a single agent, instead of 20!).
 
 In the last code cell of the notebook, you'll learn how to design and observe an agent that always selects random actions at each timestep. Your goal in this project is to create an agent that performs much better!
